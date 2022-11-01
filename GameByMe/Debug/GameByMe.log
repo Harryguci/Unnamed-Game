@@ -1,0 +1,8 @@
+﻿  Bird.cpp
+  CommomFunction.cpp
+  Human1.cpp
+  Obstacle.cpp
+  Source.cpp
+E:\Code\GameByMe\GameByMe\Source.cpp(21,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  GameByMe.vcxproj -> E:\Code\GameByMe\Debug\GameByMe.exe
